@@ -1,5 +1,9 @@
 # Change log
 
+## [1.5.3] - 2025-11-05:
+### Internals
+- Renamed some options.
+
 ## [1.5.2] - 2025-06-02:
 ### Added
 - `Force Stock-Based Terms` option.
